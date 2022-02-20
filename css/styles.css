@@ -1,0 +1,147 @@
+body{
+  font-family: 'Josefin Sans', sans-serif;
+  background-color: #E4EAFF;
+}
+
+/* Top Row Link */
+.tophead{ color: white;
+  background-color: #003366;
+  padding:  5px 9%;
+}
+.tophead a{
+  color: white;
+  text-decoration: none;
+}
+.top-left{
+  text-align: right;
+}
+.tophead a:hover{
+  color: #8FA5F2;
+}
+
+/* Logo */
+.toplogo{
+
+  padding: 10px;
+  background-color: white;
+  margin: 0 9%;
+}
+.logo1{
+  width: 90%;
+}
+.logo2{
+
+  width: 70px;
+}
+
+/* navigation */
+
+.navigation{
+padding: 10px;
+  background-color: white;
+  margin: 0 9%;
+}
+.navbar{
+  padding: 10px;}
+
+  /* Searchbar
+ */
+
+ .searchbar{
+   padding: 10px;
+     background-color: white;
+     margin: 0 9%;
+
+
+ }
+ .mat-card {
+     display: flex;
+     align-items: center;
+     justify-content: flex-end;
+ }
+
+/* Mainpage */
+
+.mainpage{
+  padding: 10px;
+  background-color: white;
+  margin: 1% 9%;
+}
+.flex-column a{ color: white;  }
+
+.homedown{ border-style: solid;
+  margin-top: 5px;
+  border-width: 2px;
+  padding: 10px;
+  text-align: justify;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.carousel-item{
+  height: 200px;
+}
+.mainpage button{
+  width: 290px;
+  text-align: left;
+  font-size: 0.8rem;
+  padding-top:  12px;
+  padding-bottom: 12px;
+}
+/* News */
+
+.newssection{
+  padding: 10px;
+  background-color: white;
+  margin: 1% 9%;
+  padding-right: 1.5%;
+}
+
+.card-body a{
+  margin: 10px 0;
+  text-decoration: none;
+  font-size: 0.8rem;
+
+}
+.newsbtn{
+  padding: 15px;
+  background-color: #E4EAFF;
+
+}
+.newsbtn button{
+  border-radius: 0;
+  height: 50px;
+}
+.fa-solid{
+  margin: 10px;
+}
+
+/* footer */
+
+.foot{
+text-align: center;
+    padding: 10px;
+    background-color: white;
+    margin: 1% 9%;
+margin-top: 15px;
+}
+
+.foot img{
+  height: 75px;
+  padding: 5px;
+}
+
+.foot1{
+  text-align: center;
+      padding: 10px;
+      margin: 1% 9%;
+  margin-top: 15px;
+
+}
+.foot1 img{
+  height: 75px;
+  padding: 5px;
+}
+.foot1 p{
+font-weight: bold; color: #A8AAB1; font-size:0.9rem;
+}
