@@ -76,7 +76,7 @@ padding: 10px;
   text-align: justify;
   display: flex;
   align-items: center;
-  justify-content: space-around;
+  justify-content: center;
 }
 .carousel-item{
   height: 200px;
@@ -87,6 +87,11 @@ padding: 10px;
   font-size: 0.8rem;
   padding-top:  12px;
   padding-bottom: 12px;
+}
+.item-center{
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 /* News */
 
